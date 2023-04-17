@@ -71,7 +71,7 @@
     "vlucas/phpdotenv": "1.0.9",
 
     "koodimonni-language/fi": "*",
-    "koodimonni-language/sv_SE": "*",
+    "koodimonni-language/sv_se": "*",
 
     "wpackagist-plugin/user-switching": "*",
     "wpackagist-plugin/what-the-file": "*",
